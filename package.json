@@ -1,6 +1,31 @@
 {
+  "name": "emplyeedirprofile",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Surbhiarora3/EmplyeeDirProfile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Surbhiarora3/EmplyeeDirProfile/issues"
+  },
+  "homepage": "https://github.com/Surbhiarora3/EmplyeeDirProfile#readme",
   "dependencies": {
+    "import-local": "^3.1.0",
     "inquirer": "^8.2.3",
+    "test": "^0.6.0"
+  },
+  "devDependencies": {
     "jest": "^28.0.2"
   }
 }
